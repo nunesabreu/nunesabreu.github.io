@@ -8,6 +8,7 @@ image:
     src: /assets/img/thumb-virtualbox.jpg
 categories: [Dicas]
 tags: [virtualbox]
+published: false
 ---
 
 O VirtualBox é uma ótima ferramenta para o gerenciamento de máquinas virtuais.

@@ -5,6 +5,7 @@ author:
     name: Nunes Aguiar de Abreu
 categories: [Dicas]
 tags: [notebook, hardware, acer, ubuntu]
+published: false
 ---
 
 Alguns notebook Acer possuem a tecnologia de armazenamento *Rapid Storage Tecnology* (RST), da Intel. Essa tecnologia permite a utilização de HD´s como se fossem uma única unidade, semelhante ao RAID do Linux.

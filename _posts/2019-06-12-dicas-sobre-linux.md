@@ -7,6 +7,7 @@ image:
     src: /assets/img/thumb-linux.jpg
 categories: [Sistemas operacionais]
 tags: [Linux, dicas]
+published: false
 ---
 
 Abaixo algumas dicas do Linux que podem ser úteis.

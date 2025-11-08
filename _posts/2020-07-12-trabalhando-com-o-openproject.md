@@ -7,6 +7,7 @@ image:
     src: /assets/img/openproject.png
 categories: [Ferramentas]
 tags: [gerenciamento de projetos, ferramentas]
+published: false
 ---
 
 O [OpenProject](https://www.openproject.org) é uma solução completa para gerenciamento de projetos. Permite a utilização online (paga) ou opensource (instalação em um servidor próprio).
