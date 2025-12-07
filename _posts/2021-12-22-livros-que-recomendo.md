@@ -9,6 +9,8 @@ image:
     src: /assets/img/book.jpg
 ---
 
+- [O Segredo Final](https://www.amazon.com.br/segredo-final-Robert-Langdon-Livro/dp/6555658398): Romance que segue o padrão do Dan Brown. Conta uma trama envolvente que acontece na cidade de Praga. As referências históricas da cidade dão um charme especial à estória.
+
 - [A marca da vitória](https://www.amazon.com.br/marca-vit%C3%B3ria-Phil-Knight/dp/8543104467): É a autobiografia do criador da Nike. Uma história interessante e inspiradora.
 
 - [Gente Ansiosa](https://www.amazon.com.br/gp/product/B09B9KZN9P/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1): Não, não é um livro de autoajuda. Um assalto a banco não dá certo, o assaltante foge, entra em um apartamento onde estavam várias pessoas interessadas em alugá-lo. É uma narrativa com personagens muito interessantes, que prendem a atenção do leitor de uma forma bastante divertida. Vale a pena conferir.
