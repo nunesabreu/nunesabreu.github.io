@@ -1,13 +1,22 @@
 ---
+layout: post
 title: Enfeites de Vidro
+description: Uma reflexão natalina sobre memória, fragilidade e luz.
+excerpt: Uma árvore de Natal feita de histórias e emoções guardadas no vidro.
 date: 2022-12-24 16:56:00
-author: 
-    name: Nunes Aguiar de Abreu
-    name: Francielle Neves
+lang: pt-BR
+authors:
+  - name: Nunes Aguiar de Abreu
+  - name: Francielle Neves
 categories: [Reflexões]
 tags: [motivação, leitura, natal]
+slug: enfeites-de-vidro
+permalink: /reflexoes/enfeites-de-vidro/
 image: 
     src: /assets/img/enfeites_de_vidro.png
+image_alt: Enfeites de vidro refletindo luz em uma árvore de Natal
+toc: false
+reading_time: true
 ---
 
 Essa noite eu tive um sonho. Sonhei com a montagem de uma árvore de Natal. Nela, eu pendurava enfeites de vidro, cada um guardando um momento vivido ao longo do ano.
