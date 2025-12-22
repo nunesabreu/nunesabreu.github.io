@@ -6,8 +6,7 @@ excerpt: Uma árvore de Natal feita de histórias e emoções guardadas no vidro
 date: 2022-12-24 16:56:00
 lang: pt-BR
 authors:
-  - name: Nunes Aguiar de Abreu
-  - name: Francielle Neves
+  - name: Nunes Aguiar de Abreu & Francielle Neves
 categories: [Reflexões]
 tags: [motivação, leitura, natal]
 slug: enfeites-de-vidro
@@ -51,5 +50,5 @@ E que, ao olharmos uns para os outros à mesa, consigamos enxergar não apenas r
 
 
 <p style="font-size: 0.85em; color: #666; margin-top: 2em; font-style: italic;">
-  Texto desenvolvido a 4 mãos, com minha grande amiga Francielle, uma filósofa brilhante, com uma capacidade de compreensão ímpar e uma organização exemplar.
+  Texto desenvolvido a 4 mãos, com minha grande amiga Francielle, uma filósofa brilhante, com uma capacidade de compreensão ímpar, uma escrita incomum e uma organização exemplar.
 </p>
