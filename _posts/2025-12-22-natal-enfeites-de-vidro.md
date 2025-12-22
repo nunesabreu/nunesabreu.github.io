@@ -5,8 +5,8 @@ description: Uma reflexão natalina sobre memória, fragilidade e luz.
 excerpt: Uma árvore de Natal feita de histórias e emoções guardadas no vidro.
 date: 2022-12-24 16:56:00
 lang: pt-BR
-authors:
-  - name: Nunes Aguiar de Abreu & Francielle Neves
+author:
+  name: Nunes Aguiar de Abreu & Francielle Neves
 categories: [Reflexões]
 tags: [motivação, leitura, natal]
 slug: enfeites-de-vidro
