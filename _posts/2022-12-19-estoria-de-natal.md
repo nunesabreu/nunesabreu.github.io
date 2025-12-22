@@ -4,7 +4,7 @@ date: 2022-12-24 16:56:00
 author: 
     name: Nunes Aguiar de Abreu
 categories: [Reflexões]
-tags: [motivação, leitura]
+tags: [motivação, leitura, natal]
 image: 
     src: /assets/img/book.jpg
 ---
