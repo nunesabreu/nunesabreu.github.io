@@ -47,3 +47,9 @@ Mas de uma coisa não duvido: todos nós, sem exceção, carregamos uma luz úni
 Por isso, desejo que neste Natal possamos escolher a luz certa.
 Não a mais forte, mas a mais honesta. Aquela que não apaga nossas fissuras, mas as atravessa.
 E que, ao olharmos uns para os outros à mesa, consigamos enxergar não apenas reflexos, mas presenças.
+
+
+
+<p style="font-size: 0.85em; color: #666; margin-top: 2em; font-style: italic;">
+  Texto desenvolvido a 4 mãos, com minha grande amiga Francielle, uma filósofa brilhante, com uma capacidade de compreensão ímpar e uma organização exemplar.
+</p>
