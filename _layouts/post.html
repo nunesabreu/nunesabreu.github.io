@@ -94,9 +94,20 @@ tail_includes:
   {{ content }}
 </div>
 
+<hr>
+
 <div class="post-tail-wrapper text-muted">
 
-  {% include cusdis.html %}
+  <!-- Comentários -->
+  {%- if page.id -%}
+    <!-- Se o artigo tiver "comments: false" definido, não mostrar comentários -->
+    {% if page.comments != false %}
+      <section class="comments">
+        <h3>Comentários</h3>
+        {% include cusdis.html %}
+      </section>
+    {% endif %}
+  {%- endif -%}
 
   <!-- categories -->
   {% if page.categories.size > 0 %}
