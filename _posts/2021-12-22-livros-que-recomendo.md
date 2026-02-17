@@ -9,6 +9,8 @@ image:
     src: /assets/img/book.jpg
 ---
 
+- [O Símbolo Perdido](https://www.amazon.com.br/s%C3%ADmbolo-perdido-Dan-Brown/dp/6555650699): Robert Langdon está em Washington, em mais uma grande aventura, intimamente relacionada aos rituais maçons. Aqui ocorrem assassinatos e cenas de tortura, com final surpreendente.
+
 - [O Segredo Final](https://www.amazon.com.br/segredo-final-Robert-Langdon-Livro/dp/6555658398): Romance que segue o padrão do Dan Brown. Conta uma trama envolvente que acontece na cidade de Praga. As referências históricas da cidade dão um charme especial à estória.
 
 - [A marca da vitória](https://www.amazon.com.br/marca-vit%C3%B3ria-Phil-Knight/dp/8543104467): É a autobiografia do criador da Nike. Uma história interessante e inspiradora.
