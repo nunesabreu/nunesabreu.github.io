@@ -1,13 +1,21 @@
-{%- if page.id -%}
-<!--Every article has a id, but special pages don't unless you set manually.
-This prevents Cusdis from appear everywhere-->
-<div id="cusdis_thread"
-  data-host="https://cusdis.com"
-  data-app-id="d1b615c5-105a-4253-9f04-f3e34782df86"
-  data-page-id="{{ page.id }}"
-  data-page-url="{{ site.url }}{{ page.baseurl }}{{ page.url }}"
-  data-page-title="{{ page.title }}"
-  data-theme="auto"
-></div>
-<script defer src="https://cusdis.com/js/cusdis.es.js"></script>
-{%- endif -%}
+<div class="mt-5 border-top pt-4">
+  <h3 class="mb-4" style="font-size: 1.25rem; font-weight: 600;"><i class="far fa-comments fa-fw"></i> Comentários</h3>
+  <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="d1b615c5-105a-4253-9f04-f3e34782df86"
+    data-page-id="{{ page.id }}"
+    data-page-url="{{ site.url }}{{ page.baseurl }}{{ page.url }}"
+    data-page-title="{{ page.title }}"
+    data-theme="auto"
+  ></div>
+</div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<style>
+  /* Isso garante que o iframe do Cusdis não tenha bordas estranhas e 
+     tente ocupar o espaço correto do layout do Chirpy */
+  #cusdis_thread {
+    min-height: 200px;
+    margin-bottom: 2rem;
+  }
+</style>
