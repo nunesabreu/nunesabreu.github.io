@@ -9,6 +9,8 @@ image:
     src: /assets/img/book.jpg
 ---
 
+- [Origem](https://www.amazon.com.br/Origem-Robert-Langdon-Livro-5/dp/6555658142/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_1_2/131-9593743-3655034?psc=1): Pela cronologia, esse é o livro 5 das aventuras do personagem Robert Langdon. A trama gira em torno de discussões existencias, quando um cientista da computação diz ter conseguido responder às perguntas "De onde viemos ?" e "Para onde vamos ?". Não achei tão empolgante quando os dois anteriores.
+
 - [O Símbolo Perdido](https://www.amazon.com.br/s%C3%ADmbolo-perdido-Dan-Brown/dp/6555650699): Robert Langdon está em Washington, em mais uma grande aventura, intimamente relacionada aos rituais maçons. Aqui ocorrem assassinatos e cenas de tortura, com final surpreendente.
 
 - [O Segredo Final](https://www.amazon.com.br/segredo-final-Robert-Langdon-Livro/dp/6555658398): Romance que segue o padrão do Dan Brown. Conta uma trama envolvente que acontece na cidade de Praga. As referências históricas da cidade dão um charme especial à estória.
